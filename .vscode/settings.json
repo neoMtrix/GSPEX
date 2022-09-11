@@ -1,0 +1,6 @@
+{
+    "debug.javascript.autoAttachFilter": "always",
+    "livePreview.openPreviewTarget": "External Browser",
+    "livePreview.debugOnExternalPreview": true,
+    "workbench.panel.opensMaximized": "never"
+}
