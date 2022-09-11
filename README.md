@@ -1,0 +1,2 @@
+# GSpeX
+Latest gaming devices
